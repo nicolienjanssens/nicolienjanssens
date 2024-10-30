@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![hello](/images/Talk_That_Science-2024-v6-insta2-removebg-preview.png){.align-right}
+![hello](/images/Talk_That_Science-2024-v6-insta2-removebg-preview.png){: .align-right width="300px"}
 
 📚  I'm a PhD candidate researching Digital, Deliberative & Participatory Democracy
 
