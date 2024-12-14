@@ -8,8 +8,8 @@ main:
  - title: "CV"
     url: /files/CV OCTOBER 2024 ENG EXTENDED.pdf
     
-  - #title: "Publications"
-    #url: /publications/
+  - title: "Research"
+    url: /publications/
 
   - #title: "Talks"
     #url: /talks/    
