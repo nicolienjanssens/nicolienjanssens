@@ -1,7 +1,7 @@
 ---
 title: "Ranking Proposals on Online Deliberative Platforms: a Critical Review"
-collection: publications
-category: manuscripts
+collection: Work in Progress
+category: Please feel free to email me to request a manuscript, or to exchange ideas!
 #permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This manuscript focuses on ranking methods for DDPs, i.e., the way plat-
 forms order proposals in a list when showing them to users. We distinguish
