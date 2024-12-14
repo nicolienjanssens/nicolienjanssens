@@ -1,7 +1,7 @@
 ---
 title: "Disentangling Diversity: Two Dimensions of large-scale online deliberation"
 collection: publications
-category: conferences
+category: wip
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'I distinguish two new dimensions of diversity that come up when designing large-scale online deliberations.'
 #date: 2015-10-01
