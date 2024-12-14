@@ -1,7 +1,7 @@
 ---
 title: "Disentangling Diversity: Two Dimensions of large-scale online deliberation"
-collection: Work in Progress
-category: Please feel free to email me to request a manuscript, or to exchange ideas!
+collection: "Publications"
+category: "Journal Articles"
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'I distinguish two new dimensions of diversity that come up when designing large-scale online deliberations.'
 #date: 2015-10-01
