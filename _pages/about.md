@@ -14,7 +14,7 @@ redirect_from:
 
 💬 My current focus is on Deliberation and Decision Making Platforms: websites that are designed with the goal to enhance democratic participation and deliberation
 
-🎤 I have a passion for [science communication](https://talkthatscience.com/)
+🎤 I have a passion for [science communication]([https://talkthatscience.com/](https://open.spotify.com/show/5P6UUt4J4bajvaDnTxchvd?si=b8f4958eede944c4))
 
 ✏️ I serve as an editor for the [Erasmus Journal for Philosophy and Economics](https://ejpe.org/journal)
 
