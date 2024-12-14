@@ -2,7 +2,7 @@
 title: "Ranking Proposals on Online Deliberative Platforms: a Critical Review"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+#permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This manuscript focuses on ranking methods for DDPs, i.e., the way plat-
 forms order proposals in a list when showing them to users. We distinguish
 three ranking goals: voting, offline deliberation and online deliberation.
@@ -16,10 +16,10 @@ one of them, namely maximising approval diversity, should be emphasised
 in ranking for online deliberation. We thus obtain a conceptual toolbox
 for platform designers, hosts and users to make and justify choices for a
 ranking method.'
-date: 2010-10-01
-venue: 'Manuscript'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'Upon Request'
+#date: 2010-10-01
+#venue: 'Manuscript'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#paperurl: 'Upon Request'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
