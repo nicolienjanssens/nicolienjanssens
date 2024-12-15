@@ -6,13 +6,13 @@
 
 main:
   - title: "CV"
-    url: /files/CV OCTOBER 2024 ENG EXTENDED.pdf
+    url: files/CV OCTOBER 2024 ENG EXTENDED.pdf
     
   - title: "Research"
-    url: /research/
+    url: research/
 
   - title: "Blog Posts"
-    url: /blog/
+    url: blog/
 
 #  - title: "Talks"
 #    url: /talks/    
