@@ -1,6 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
+category: wip
 permalink: /publication/2024-01-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-01
