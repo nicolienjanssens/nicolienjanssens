@@ -2,7 +2,7 @@
 title: "Enabling the Digital Democratic Revival: A Research Program for Digital Democracy"
 collection: publications
 category: articles
-permalink: 
+permalink: 'enabling-the-digital-democratic-revival'
 excerpt: 'This white paper outlines a long-term scientific vision for the development of digital-democracy technology. The paper is co-authored by an international and interdisciplinary team of researchers and arose from the Lorentz Center Workshop on Algorithmic Technology for Democracy (Leiden, October 2022).'
 date: 2024-01-30
 venue: 'ArXiv'
