@@ -4,7 +4,7 @@ collection: publications
 category: wip
 permalink: research/disentangling-diversity
 excerpt: 'I distinguish two new dimensions of diversity that come up when designing large-scale online deliberations.'
-date: 
+date: 1970-01-01
 venue: 
 paperurl: 
 citation: 

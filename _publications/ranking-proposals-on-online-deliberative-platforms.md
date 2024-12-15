@@ -16,7 +16,7 @@ one of them, namely maximising approval diversity, should be emphasised
 in ranking for online deliberation. We thus obtain a conceptual toolbox
 for platform designers, hosts and users to make and justify choices for a
 ranking method.'
-date: 
+date: 1970-01-01
 venue: 
 paperurl: 
 citation: 
