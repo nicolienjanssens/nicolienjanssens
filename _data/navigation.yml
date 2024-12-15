@@ -9,20 +9,19 @@ main:
     url: /files/CV OCTOBER 2024 ENG EXTENDED.pdf
     
   - title: "Research"
-    url: /publications/
+    url: /research/
 
-  - #title: "Talks"
-    #url: /talks/    
+  - title: "Blog Posts"
+    url: /blog/
 
-  - #title: "Teaching"
-    #url: /teaching/    
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - # title: "Portfolio"
-    # url: /portfolio/
-        
-  - # title: "Blog Posts"
-    # url: /year-archive/
-    
-    
-  - # title: "Guide"
-    # url: /markdown/
+#  - title: "Portfolio"
+#    url: /portfolio/
+            
+#  - title: "Guide"
+#    url: /markdown/
